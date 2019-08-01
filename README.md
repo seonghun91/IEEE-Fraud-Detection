@@ -22,7 +22,18 @@
 2시간(퇴근 후) - 통계 관련 서적 읽기
 s2시간(퇴근 후) - Feature Engineering, Modeling 진행
 
+
 #### 대회 중 주요 산출물
 
 - 1일 1개의 EDA report, 1주일 1개의 kaggle kernel로 공유
 - 1일 3개 이상의 model 제작, perfomance 체킹
+
+
+#### 주요 진행 상황
+- (190730) 현재 목표 : single model 0.9500으로 top 10 이내 진입(현재 단일모델 0.942)
+- (190801) public/private test set 분포 파악 필요
+- (190801) time-series feature 생성 및 적용
+
+
+#### 기타
+- 10위권 이내 진입 시 즉시 데스크탑 구매할것(cpu i99900KF, ram 64G, gpu 1070ti)
