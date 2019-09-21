@@ -6,8 +6,6 @@
 멤버 : 권순환, 김경환, 김연민, 김현우, 정성훈  
 
 **저는 EDA와 Feature Engineering을 주로 진행했습니다.  
-코드와 분석을 활용하시는 것은 좋으나 삽질이 대부분인 점, 그리고 틀린 내용이 다분할수 있으니 참고만 부탁드립니다.
-잘못된 부분이나 의견 있으시면 sunghuni91@gmail.com 으로 피드백 부탁드립니다~**  
 
 ### 1. EDA (Exploratory Data Analysis)  
 
