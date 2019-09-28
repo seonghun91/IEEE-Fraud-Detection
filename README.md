@@ -16,15 +16,13 @@
 - 400_time_series_anaylsis : card/addr 등의 시간 별 분포를 파악
 - 500_ideas : 이외 feature에 적용해볼만한 다양한 가설들을 적용
 
-### 2. FE (Feature Engineering)  
+### 2. FE (Feature Engineering) - 정리 중  
 
 - (100~500) : EDA 넘버링과 매핑되게 진행
-- (600~900) : Feature Engineering 새로운 변수들 시도(clustering, LDA 등등)
+- (600~900) : Feature Engineering 새로운 변수들 시도(clustering 등)
 
 ### 3. Modeling
 
 - 100_Single_lightgbm_model : 현우님 baseline 바탕으로 feature들 추가하여 만든 Single model  
-- 200_nn_model : 개인적으로 만들어보고 테스트한 nn 모델들  
-- 300_etc_model : 기타 xgboost, catboost, 등등  
 - 800_adversarial_validation
 - 900_prevent_shakeup : 대회 마지막 shakeup 방지를 위한 아이디어
