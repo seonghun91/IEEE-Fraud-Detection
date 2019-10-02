@@ -1,8 +1,8 @@
 ## IEEE-Fraud-Detection  
 
 대회 목표 : detect fraud from customer transactions  
-대회 기간 : '19/7/16 ~ '19/10/1    
-대회 결과 : 11th (4,161 팀)  
+대회 기간 : '19.7.16 ~ '19.10.4    
+대회 결과 : 21th (6,200 팀)  
 멤버 : 권순환, 김경환, 김연민, 김현우, 정성훈  
 
 **저는 EDA와 Feature Engineering을 주로 진행했습니다.**    
