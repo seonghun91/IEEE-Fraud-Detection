@@ -18,11 +18,10 @@
 
 ### 2. FE (Feature Engineering) - 정리 중  
 
-- (100~500) : EDA 넘버링과 매핑되게 진행
+- (100~500) : EDA 기반 feature들
 - (600~900) : Feature Engineering 새로운 변수들 시도(clustering 등)
 
 ### 3. Modeling
 
-- 100_Single_lightgbm_model : 현우님 baseline 바탕으로 feature들 추가하여 만든 Single model  
+- 100_Single_lightgbm_model : 현우님 baseline 바탕으로 feature들 추가하여 실험한 Single model  
 - 800_adversarial_validation
-- 900_prevent_shakeup : 대회 마지막 shakeup 방지를 위한 아이디어
