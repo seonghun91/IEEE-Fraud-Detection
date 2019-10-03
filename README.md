@@ -16,12 +16,13 @@
 - 400_time_series_anaylsis : card/addr 등의 시간 별 분포를 파악
 - 500_ideas : 이외 feature에 적용해볼만한 다양한 가설들을 적용
 
-### 2. FE (Feature Engineering) - 정리 중  
+### 2. FE (Feature Engineering) 
 
 - (100~500) : EDA 기반 feature들
-- (600~900) : Feature Engineering 새로운 변수들 시도(clustering 등)
+- (600~900) : 캐글 커널 벤치마크, 피쳐 비교를 위한 adv 베이스라인 커널 등
 
 ### 3. Modeling
 
-- 100_Single_lightgbm_model : 현우님 baseline 바탕으로 feature들 추가하여 실험한 Single model  
-- 800_adversarial_validation
+- 100_Single_lightgbm_model : 현우님 baseline, 이를 바탕으로 feature들 추가하여 실험한 Single model들  
+- 200_Single_xgboost_model : xgboost 베이스라인 모델(경환님 작성)
+- 300_Single_nn_model : NN 베이스라인 모델(순환님 작성)
